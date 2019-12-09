@@ -1,0 +1,19 @@
+{
+  "name": "roulet",
+  "version": "1.0.0",
+  "description": "My excellent Nuxt.js project",
+  "author": "SyureNyanko",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1",
+    "nuxt": "^2.0.0",
+    "yaml-loader": "^0.5.0"
+  },
+  "devDependencies": {}
+}
